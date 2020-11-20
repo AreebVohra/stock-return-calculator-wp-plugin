@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/css/main.2b2320f4.chunk.css",
-    "main.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/main.f25fb4d6.chunk.js",
-    "main.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/main.f25fb4d6.chunk.js.map",
-    "runtime-main.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/runtime-main.bb5fac57.js",
-    "runtime-main.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/runtime-main.bb5fac57.js.map",
-    "static/js/2.8fbbff2e.chunk.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/2.8fbbff2e.chunk.js",
-    "static/js/2.8fbbff2e.chunk.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/2.8fbbff2e.chunk.js.map",
-    "static/js/3.d639df4b.chunk.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/3.d639df4b.chunk.js",
-    "static/js/3.d639df4b.chunk.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/3.d639df4b.chunk.js.map",
+    "main.css": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/css/main.6583b0bf.chunk.css",
+    "main.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/main.34dca2b5.chunk.js",
+    "main.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/main.34dca2b5.chunk.js.map",
+    "runtime-main.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/runtime-main.04e178a9.js",
+    "runtime-main.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/runtime-main.04e178a9.js.map",
+    "static/js/2.c88cc8a6.chunk.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/2.c88cc8a6.chunk.js",
+    "static/js/2.c88cc8a6.chunk.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/2.c88cc8a6.chunk.js.map",
+    "static/js/3.c4e9ecd2.chunk.js": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/3.c4e9ecd2.chunk.js",
+    "static/js/3.c4e9ecd2.chunk.js.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/3.c4e9ecd2.chunk.js.map",
     "index.html": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/index.html",
-    "static/css/main.2b2320f4.chunk.css.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/css/main.2b2320f4.chunk.css.map",
-    "static/js/2.8fbbff2e.chunk.js.LICENSE.txt": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/2.8fbbff2e.chunk.js.LICENSE.txt"
+    "static/css/main.6583b0bf.chunk.css.map": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/css/main.6583b0bf.chunk.css.map",
+    "static/js/2.c88cc8a6.chunk.js.LICENSE.txt": "/wp-content/plugins/stock-return-calculator-wp-plugin/widget/build/static/js/2.c88cc8a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb5fac57.js",
-    "static/js/2.8fbbff2e.chunk.js",
-    "static/css/main.2b2320f4.chunk.css",
-    "static/js/main.f25fb4d6.chunk.js"
+    "static/js/runtime-main.04e178a9.js",
+    "static/js/2.c88cc8a6.chunk.js",
+    "static/css/main.6583b0bf.chunk.css",
+    "static/js/main.34dca2b5.chunk.js"
   ]
 }
